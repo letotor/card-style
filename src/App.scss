@@ -33,6 +33,16 @@ h1,h2,h3,h4,h5,h6{
 .b1{
   border:1px solid corail;
 }
+a:visited,a{
+  text-decoration: none;
+  color:white;
+}
+.flex-center{
+ margin:auto;
+ text-align: center;
+ color: white;
+ font-size : 2.4rem;
+}
 
 /*** FIN MODE DEBUG ****/
 

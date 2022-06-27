@@ -1,0 +1,38 @@
+/** RESET CSS ***/
+*{
+margin:0;
+ padding:0;
+ box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+  padding:0;
+  margin:0;
+}
+/******FIN RESET**/
+
+
+
+/**** TEMPLATE POUR CENTRER et coloriser MON CONTENU ****/
+.container-center{
+  // margin: 5rem;
+   margin:auto;
+  display:block;
+
+  // height:100vh;
+  // align-content: center;
+  // align-items: center;
+  // justify-content: center;
+  // justify-items:center;
+  background: rgb(32, 44, 67);
+}
+/**** FIN TEMPLATE ****/
+
+
+/**** MODE DEBUG ****/
+.b1{
+  border:1px solid corail;
+}
+
+/*** FIN MODE DEBUG ****/
+
